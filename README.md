@@ -1,8 +1,3 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=RUNE0013" />
-</div>
-
 <!--バッジ-->
 <p align="left">
   <a href="https://github.com/Keichan15">

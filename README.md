@@ -3,7 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=RUNE0013" />
 </div>
 
-
+<!--バッジ-->
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=RUNE0013" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/RUNE0013?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
@@ -12,27 +20,14 @@
 - 📫 How to reach me: [Twitter - @RUNE319](https://x.com/rune319)
 <br>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUNE0013&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUNE0013&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RUNE0013&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RUNE0013&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RUNE0013&theme=gruvbox&utcOffset=9)
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<p align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=RUNE0013&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUNE0013&theme=vue-dark&layout=compact" />
-</p>
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->-->
+![](https://raw.githubusercontent.com/RUNE0013/RUNE0013/output/github-contribution-grid-snake.svg)

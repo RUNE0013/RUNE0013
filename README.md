@@ -12,7 +12,7 @@
 
 - I'm a RUNE
 - 🌱 I am a student engineer and I am studying lua.
-- 📫 How to reach me: [Twitter - @RUNE319](https://x.com/rune319)
+- 📫 How to reach me: [Discord - rune284]
 <br>
 
 ## Stats

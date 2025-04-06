@@ -1,9 +1,9 @@
 <!--バッジ-->
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/RUNE0013">
     <img height="20" src="https://komarev.com/ghpvc/?username=RUNE0013" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/RUNE0013">
     <img height="20" src="https://img.shields.io/github/followers/RUNE0013?label=follow&logo=github&style=flat" />
   </a>
 </p>

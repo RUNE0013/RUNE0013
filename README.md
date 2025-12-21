@@ -18,7 +18,7 @@
 
 ## Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rune0013&" alt="rune0013" /></p>
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=rune0013)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RUNE0013&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RUNE0013&theme=gruvbox)

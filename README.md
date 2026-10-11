@@ -31,7 +31,23 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
 
 ## Language and Tools
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=html,lua)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=discordjs,ros,wordpress)](https://skillicons.dev)
+
+### Database & Cloud
+[![Infrastructure](https://skillicons.dev/icons?i=mysql,cloudflare)](https://skillicons.dev)
+
+### Operating Systems
+[![OS](https://skillicons.dev/icons?i=apple,linux,windows)](https://skillicons.dev)
+
+### Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,obsidian)](https://skillicons.dev)
+
+### Design & Creative
+[![Creative](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
